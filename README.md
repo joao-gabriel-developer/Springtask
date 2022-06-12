@@ -1,2 +1,3 @@
 # Springtask
- Task manager em spring
+ Task manager in spring with Springboot and SpringWeb
+
